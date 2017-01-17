@@ -1,0 +1,2884 @@
+[
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "article": "Impostos sobre el capital.", 
+                "capitol": "Impostos directes.", 
+                "codi_article": "11", 
+                "codi_capitol": "1", 
+                "codi_partida": "11300", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Impost sobre b\u00e9ns immobles. B\u00e9ns immobles de naturalesa urbana.", 
+                "total": "7100000.00"
+              }, 
+              {
+                "article": "Impostos sobre el capital.", 
+                "capitol": "Impostos directes.", 
+                "codi_article": "11", 
+                "codi_capitol": "1", 
+                "codi_partida": "11300", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "IMPOST SOBRE B\u00c9NS IMMBOLES DE NARTURALESA URBANA", 
+                "total": "6816994.02"
+              }
+            ], 
+            "id": "1-11-11300", 
+            "name": "IMPOST SOBRE B\u00c9NS IMMBOLES DE NARTURALESA URBANA", 
+            "revenue": {
+              "accounts": {
+                "2016": 7100000.0, 
+                "2017": 6816994.02
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Impostos sobre el capital.", 
+                "capitol": "Impostos directes.", 
+                "codi_article": "11", 
+                "codi_capitol": "1", 
+                "codi_partida": "11200", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Impost sobre b\u00e9ns immobles. B\u00e9ns immobles de naturalesa r\u00fastica.", 
+                "total": "29500.00"
+              }, 
+              {
+                "article": "Impostos sobre el capital.", 
+                "capitol": "Impostos directes.", 
+                "codi_article": "11", 
+                "codi_capitol": "1", 
+                "codi_partida": "11200", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "IMPOST SOBRE B\u00c9NS IMMOBLES NATURALESA R\u00daSTICA ", 
+                "total": "1193977.02"
+              }
+            ], 
+            "id": "1-11-11200", 
+            "name": "IMPOST SOBRE B\u00c9NS IMMOBLES NATURALESA R\u00daSTICA ", 
+            "revenue": {
+              "accounts": {
+                "2016": 29500.0, 
+                "2017": 1193977.02
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Impostos sobre el capital.", 
+                "capitol": "Impostos directes.", 
+                "codi_article": "11", 
+                "codi_capitol": "1", 
+                "codi_partida": "11600", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Impost sobre increment del valor dels terrenys de naturalesa urbana.", 
+                "total": "585000.00"
+              }, 
+              {
+                "article": "Impostos sobre el capital.", 
+                "capitol": "Impostos directes.", 
+                "codi_article": "11", 
+                "codi_capitol": "1", 
+                "codi_partida": "11600", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "IMPOST INCREMENT DEL VALOR DE TERRENYS NATURALESA URBANA", 
+                "total": "489279.45"
+              }
+            ], 
+            "id": "1-11-11600", 
+            "name": "IMPOST INCREMENT DEL VALOR DE TERRENYS NATURALESA URBANA", 
+            "revenue": {
+              "accounts": {
+                "2016": 585000.0, 
+                "2017": 489279.45
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Impostos sobre el capital.", 
+                "capitol": "Impostos directes.", 
+                "codi_article": "11", 
+                "codi_capitol": "1", 
+                "codi_partida": "11500", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Impost sobre vehicles de tracci\u00f3 mec\u00e0nica.", 
+                "total": "1730000.00"
+              }, 
+              {
+                "article": "Impostos sobre el capital.", 
+                "capitol": "Impostos directes.", 
+                "codi_article": "11", 
+                "codi_capitol": "1", 
+                "codi_partida": "11500", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "IMPOST SOBRE VEHICLES DE TRACCI\u00d3 MEC\u00c0NICA", 
+                "total": "1730000.00"
+              }
+            ], 
+            "id": "1-11-11500", 
+            "name": "IMPOST SOBRE VEHICLES DE TRACCI\u00d3 MEC\u00c0NICA", 
+            "revenue": {
+              "accounts": {
+                "2016": 1730000.0, 
+                "2017": 1730000.0
+              }
+            }
+          }
+        ], 
+        "id": "1-11", 
+        "name": "Impostos sobre el capital.", 
+        "revenue": {
+          "accounts": {
+            "2016": 9444500.0, 
+            "2017": 10230250.489999998
+          }
+        }
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "article": "Impost sobre les activitats econ\u00f2miques.", 
+                "capitol": "Impostos directes.", 
+                "codi_article": "13", 
+                "codi_capitol": "1", 
+                "codi_partida": "13000", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Impost sobre activitats econ\u00f2miques.", 
+                "total": "300000.00"
+              }, 
+              {
+                "article": "Impost sobre les activitats econ\u00f2miques.", 
+                "capitol": "Impostos directes.", 
+                "codi_article": "13", 
+                "codi_capitol": "1", 
+                "codi_partida": "13000", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "IMPOST SOBRE ACTIVITATS ECON\u00d2MIQUES", 
+                "total": "330000.00"
+              }
+            ], 
+            "id": "1-13-13000", 
+            "name": "IMPOST SOBRE ACTIVITATS ECON\u00d2MIQUES", 
+            "revenue": {
+              "accounts": {
+                "2016": 300000.0, 
+                "2017": 330000.0
+              }
+            }
+          }
+        ], 
+        "id": "1-13", 
+        "name": "Impost sobre les activitats econ\u00f2miques.", 
+        "revenue": {
+          "accounts": {
+            "2016": 300000.0, 
+            "2017": 330000.0
+          }
+        }
+      }
+    ], 
+    "id": "1", 
+    "name": "Impostos directes.", 
+    "revenue": {
+      "accounts": {
+        "2016": 9744500.0, 
+        "2017": 10560250.489999998
+      }
+    }
+  }, 
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "article": "Taxes per la utilitzaci\u00f3 privativa o l\u2019aprofitament especial del domini p\u00fablic local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "33", 
+                "codi_capitol": "3", 
+                "codi_partida": "33100", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Taxa per entrada de vehicles.", 
+                "total": "88000.00"
+              }, 
+              {
+                "article": "Taxes per la utilitzaci\u00f3 privativa o l\u2019aprofitament especial del domini p\u00fablic local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "33", 
+                "codi_capitol": "3", 
+                "codi_partida": "33100", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "TAXA PER ENTRADA DE VEHICLES", 
+                "total": "88000.00"
+              }
+            ], 
+            "id": "3-33-33100", 
+            "name": "TAXA PER ENTRADA DE VEHICLES", 
+            "revenue": {
+              "accounts": {
+                "2016": 88000.0, 
+                "2017": 88000.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Taxes per la utilitzaci\u00f3 privativa o l\u2019aprofitament especial del domini p\u00fablic local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "33", 
+                "codi_capitol": "3", 
+                "codi_partida": "33502", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "SERVEI CONEXIO CLAVEGUERAM", 
+                "total": "5000.00"
+              }, 
+              {
+                "article": "Taxes per la utilitzaci\u00f3 privativa o l\u2019aprofitament especial del domini p\u00fablic local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "33", 
+                "codi_capitol": "3", 
+                "codi_partida": "33502", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "SERVEI CONEXIO CLAVEGUERAM", 
+                "total": "6683.50"
+              }
+            ], 
+            "id": "3-33-33502", 
+            "name": "SERVEI CONEXIO CLAVEGUERAM", 
+            "revenue": {
+              "accounts": {
+                "2016": 5000.0, 
+                "2017": 6683.5
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Taxes per la utilitzaci\u00f3 privativa o l\u2019aprofitament especial del domini p\u00fablic local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "33", 
+                "codi_capitol": "3", 
+                "codi_partida": "33503", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "OCUPACIO VIA PUBLICA CAIXERS", 
+                "total": "2000.00"
+              }, 
+              {
+                "article": "Taxes per la utilitzaci\u00f3 privativa o l\u2019aprofitament especial del domini p\u00fablic local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "33", 
+                "codi_capitol": "3", 
+                "codi_partida": "33503", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "OCUPACIO VIA PUBLICA CAIXERS", 
+                "total": "2000.00"
+              }
+            ], 
+            "id": "3-33-33503", 
+            "name": "OCUPACIO VIA PUBLICA CAIXERS", 
+            "revenue": {
+              "accounts": {
+                "2016": 2000.0, 
+                "2017": 2000.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Taxes per la utilitzaci\u00f3 privativa o l\u2019aprofitament especial del domini p\u00fablic local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "33", 
+                "codi_capitol": "3", 
+                "codi_partida": "33500", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "OCUPACIO VIA P. AMB TAULES I CADIRES", 
+                "total": "26000.00"
+              }, 
+              {
+                "article": "Taxes per la utilitzaci\u00f3 privativa o l\u2019aprofitament especial del domini p\u00fablic local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "33", 
+                "codi_capitol": "3", 
+                "codi_partida": "33500", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "OCUPACIO VIA P. AMB TAULES I CADIRES", 
+                "total": "26000.00"
+              }
+            ], 
+            "id": "3-33-33500", 
+            "name": "OCUPACIO VIA P. AMB TAULES I CADIRES", 
+            "revenue": {
+              "accounts": {
+                "2016": 26000.0, 
+                "2017": 26000.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Taxes per la utilitzaci\u00f3 privativa o l\u2019aprofitament especial del domini p\u00fablic local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "33", 
+                "codi_capitol": "3", 
+                "codi_partida": "33501", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "LLOCS BARRAQUES CASETES", 
+                "total": "180000.00"
+              }, 
+              {
+                "article": "Taxes per la utilitzaci\u00f3 privativa o l\u2019aprofitament especial del domini p\u00fablic local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "33", 
+                "codi_capitol": "3", 
+                "codi_partida": "33501", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "LLOCS BARRAQUES CASETES", 
+                "total": "193150.00"
+              }
+            ], 
+            "id": "3-33-33501", 
+            "name": "LLOCS BARRAQUES CASETES", 
+            "revenue": {
+              "accounts": {
+                "2016": 180000.0, 
+                "2017": 193150.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Taxes per la utilitzaci\u00f3 privativa o l\u2019aprofitament especial del domini p\u00fablic local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "33", 
+                "codi_capitol": "3", 
+                "codi_partida": "33800", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Compensaci\u00f3 de Telef\u00f3nica de Espa\u00f1a, SA.", 
+                "total": "50000.00"
+              }, 
+              {
+                "article": "Taxes per la utilitzaci\u00f3 privativa o l\u2019aprofitament especial del domini p\u00fablic local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "33", 
+                "codi_capitol": "3", 
+                "codi_partida": "33800", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Compensaci\u00f3 de Telef\u00f3nica de Espa\u00f1a, SA.", 
+                "total": "40000.00"
+              }
+            ], 
+            "id": "3-33-33800", 
+            "name": "Compensaci\u00f3 de Telef\u00f3nica de Espa\u00f1a, SA.", 
+            "revenue": {
+              "accounts": {
+                "2016": 50000.0, 
+                "2017": 40000.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Taxes per la utilitzaci\u00f3 privativa o l\u2019aprofitament especial del domini p\u00fablic local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "33", 
+                "codi_capitol": "3", 
+                "codi_partida": "33700", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "OCUPACIO VIA PUBLICA ENDESA", 
+                "total": "212000.00"
+              }, 
+              {
+                "article": "Taxes per la utilitzaci\u00f3 privativa o l\u2019aprofitament especial del domini p\u00fablic local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "33", 
+                "codi_capitol": "3", 
+                "codi_partida": "33700", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "OCUPACIO VIA PUBLICA ENDESA", 
+                "total": "212000.00"
+              }
+            ], 
+            "id": "3-33-33700", 
+            "name": "OCUPACIO VIA PUBLICA ENDESA", 
+            "revenue": {
+              "accounts": {
+                "2016": 212000.0, 
+                "2017": 212000.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Taxes per la utilitzaci\u00f3 privativa o l\u2019aprofitament especial del domini p\u00fablic local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "33", 
+                "codi_capitol": "3", 
+                "codi_partida": "33900", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "O.V.P. ALTRES EMPRESES", 
+                "total": "60000.00"
+              }, 
+              {
+                "article": "Taxes per la utilitzaci\u00f3 privativa o l\u2019aprofitament especial del domini p\u00fablic local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "33", 
+                "codi_capitol": "3", 
+                "codi_partida": "33900", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "O.V.P. ALTRES EMPRESES", 
+                "total": "60000.00"
+              }
+            ], 
+            "id": "3-33-33900", 
+            "name": "O.V.P. ALTRES EMPRESES", 
+            "revenue": {
+              "accounts": {
+                "2016": 60000.0, 
+                "2017": 60000.0
+              }
+            }
+          }
+        ], 
+        "id": "3-33", 
+        "name": "Taxes per la utilitzaci\u00f3 privativa o l\u2019aprofitament especial del domini p\u00fablic local.", 
+        "revenue": {
+          "accounts": {
+            "2016": 623000.0, 
+            "2017": 627833.5
+          }
+        }
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "article": "Taxes per la realitzaci\u00f3 d\u2019activitats de compet\u00e8ncia local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "32", 
+                "codi_capitol": "3", 
+                "codi_partida": "32600", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Taxa per retirada de vehicles.", 
+                "total": "40000.00"
+              }, 
+              {
+                "article": "Taxes per la realitzaci\u00f3 d\u2019activitats de compet\u00e8ncia local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "32", 
+                "codi_capitol": "3", 
+                "codi_partida": "32600", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "TAXA PER RETIRADA DE VEHICLES", 
+                "total": "48397.14"
+              }
+            ], 
+            "id": "3-32-32600", 
+            "name": "TAXA PER RETIRADA DE VEHICLES", 
+            "revenue": {
+              "accounts": {
+                "2016": 40000.0, 
+                "2017": 48397.14
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Taxes per la realitzaci\u00f3 d\u2019activitats de compet\u00e8ncia local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "32", 
+                "codi_capitol": "3", 
+                "codi_partida": "32501", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "LLICENCIES AUTOTAXIS I VEHICLES DE LLOGUER", 
+                "total": "1000.00"
+              }, 
+              {
+                "article": "Taxes per la realitzaci\u00f3 d\u2019activitats de compet\u00e8ncia local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "32", 
+                "codi_capitol": "3", 
+                "codi_partida": "32501", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "TAXA PER LLICENCIES AUTOTAXIS I VEHICLES DE LLOGUER", 
+                "total": "1000.00"
+              }
+            ], 
+            "id": "3-32-32501", 
+            "name": "TAXA PER LLICENCIES AUTOTAXIS I VEHICLES DE LLOGUER", 
+            "revenue": {
+              "accounts": {
+                "2016": 1000.0, 
+                "2017": 1000.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Taxes per la realitzaci\u00f3 d\u2019activitats de compet\u00e8ncia local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "32", 
+                "codi_capitol": "3", 
+                "codi_partida": "32500", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Taxa per expedici\u00f3 de documents.", 
+                "total": "26000.00"
+              }, 
+              {
+                "article": "Taxes per la realitzaci\u00f3 d\u2019activitats de compet\u00e8ncia local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "32", 
+                "codi_capitol": "3", 
+                "codi_partida": "32500", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "TAXA PER EXPEDICI\u00d3 DE DOCUMENTS", 
+                "total": "28424.52"
+              }
+            ], 
+            "id": "3-32-32500", 
+            "name": "TAXA PER EXPEDICI\u00d3 DE DOCUMENTS", 
+            "revenue": {
+              "accounts": {
+                "2016": 26000.0, 
+                "2017": 28424.52
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Taxes per la realitzaci\u00f3 d\u2019activitats de compet\u00e8ncia local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "32", 
+                "codi_capitol": "3", 
+                "codi_partida": "32503", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "PLAQUES PATENTS DISTINTIUS I UTILITZACI\u00d3 DE L'ESCUT", 
+                "total": "1000.00"
+              }, 
+              {
+                "article": "Taxes per la realitzaci\u00f3 d\u2019activitats de compet\u00e8ncia local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "32", 
+                "codi_capitol": "3", 
+                "codi_partida": "32503", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "TAXES PER PLAQUES, PATENTS, DISTINTIUS I UTILITZACI\u00d3 DE L'ESCUT", 
+                "total": "1000.00"
+              }
+            ], 
+            "id": "3-32-32503", 
+            "name": "TAXES PER PLAQUES, PATENTS, DISTINTIUS I UTILITZACI\u00d3 DE L'ESCUT", 
+            "revenue": {
+              "accounts": {
+                "2016": 1000.0, 
+                "2017": 1000.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Taxes per la realitzaci\u00f3 d\u2019activitats de compet\u00e8ncia local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "32", 
+                "codi_capitol": "3", 
+                "codi_partida": "32502", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "LLICENCIA D'OBERTURA D'ESTABLIMENTS", 
+                "total": "36000.00"
+              }, 
+              {
+                "article": "Taxes per la realitzaci\u00f3 d\u2019activitats de compet\u00e8ncia local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "32", 
+                "codi_capitol": "3", 
+                "codi_partida": "32502", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "TAXA PER LLICENCIA D'OBERTURA D'ESTABLIMENTS", 
+                "total": "56365.65"
+              }
+            ], 
+            "id": "3-32-32502", 
+            "name": "TAXA PER LLICENCIA D'OBERTURA D'ESTABLIMENTS", 
+            "revenue": {
+              "accounts": {
+                "2016": 36000.0, 
+                "2017": 56365.65
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Taxes per la realitzaci\u00f3 d\u2019activitats de compet\u00e8ncia local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "32", 
+                "codi_capitol": "3", 
+                "codi_partida": "32100", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Llic\u00e8ncies urban\u00edstiques.", 
+                "total": "65000.00"
+              }, 
+              {
+                "article": "Taxes per la realitzaci\u00f3 d\u2019activitats de compet\u00e8ncia local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "32", 
+                "codi_capitol": "3", 
+                "codi_partida": "32100", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Llic\u00e8ncies urban\u00edstiques.", 
+                "total": "132469.84"
+              }
+            ], 
+            "id": "3-32-32100", 
+            "name": "Llic\u00e8ncies urban\u00edstiques.", 
+            "revenue": {
+              "accounts": {
+                "2016": 65000.0, 
+                "2017": 132469.84
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Taxes per la realitzaci\u00f3 d\u2019activitats de compet\u00e8ncia local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "32", 
+                "codi_capitol": "3", 
+                "codi_partida": "32900", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "TAXES CANERA", 
+                "total": "10000.00"
+              }, 
+              {
+                "article": "Taxes per la realitzaci\u00f3 d\u2019activitats de compet\u00e8ncia local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "32", 
+                "codi_capitol": "3", 
+                "codi_partida": "32900", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "TAXES SERVEI DE CANERA MUNICIPAL", 
+                "total": "12080.47"
+              }
+            ], 
+            "id": "3-32-32900", 
+            "name": "TAXES SERVEI DE CANERA MUNICIPAL", 
+            "revenue": {
+              "accounts": {
+                "2016": 10000.0, 
+                "2017": 12080.47
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Taxes per la realitzaci\u00f3 d\u2019activitats de compet\u00e8ncia local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "32", 
+                "codi_capitol": "3", 
+                "codi_partida": "32504", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Taxa per serveis especials de vigilancia", 
+                "total": "10.00"
+              }, 
+              {
+                "article": "Taxes per la realitzaci\u00f3 d\u2019activitats de compet\u00e8ncia local.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "32", 
+                "codi_capitol": "3", 
+                "codi_partida": "32504", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "TAXA PER SERVEI DE VIGIL\u00c0NCIA", 
+                "total": "10.00"
+              }
+            ], 
+            "id": "3-32-32504", 
+            "name": "TAXA PER SERVEI DE VIGIL\u00c0NCIA", 
+            "revenue": {
+              "accounts": {
+                "2016": 10.0, 
+                "2017": 10.0
+              }
+            }
+          }
+        ], 
+        "id": "3-32", 
+        "name": "Taxes per la realitzaci\u00f3 d\u2019activitats de compet\u00e8ncia local.", 
+        "revenue": {
+          "accounts": {
+            "2016": 179010.0, 
+            "2017": 279747.61999999994
+          }
+        }
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "article": "Altres ingressos.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "39", 
+                "codi_capitol": "3", 
+                "codi_partida": "39904", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "EXECUCIO OBRES TANCAMENT SOLARS", 
+                "total": "10.00"
+              }, 
+              {
+                "article": "Altres ingressos.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "39", 
+                "codi_capitol": "3", 
+                "codi_partida": "39904", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "EXECUCIO OBRES TANCAMENT SOLARS", 
+                "total": "10.00"
+              }
+            ], 
+            "id": "3-39-39904", 
+            "name": "EXECUCIO OBRES TANCAMENT SOLARS", 
+            "revenue": {
+              "accounts": {
+                "2016": 10.0, 
+                "2017": 10.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Altres ingressos.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "39", 
+                "codi_capitol": "3", 
+                "codi_partida": "39211", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Rec\u00e0rrec de constrenyiment.", 
+                "total": "65000.00"
+              }, 
+              {
+                "article": "Altres ingressos.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "39", 
+                "codi_capitol": "3", 
+                "codi_partida": "39211", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "REC\u00c0RREC CONSTRENYIMENT", 
+                "total": "55000.00"
+              }
+            ], 
+            "id": "3-39-39211", 
+            "name": "REC\u00c0RREC CONSTRENYIMENT", 
+            "revenue": {
+              "accounts": {
+                "2016": 65000.0, 
+                "2017": 55000.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Altres ingressos.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "39", 
+                "codi_capitol": "3", 
+                "codi_partida": "39901", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "REINTEGRO ANUNCIS PARTICULARS", 
+                "total": "10.00"
+              }, 
+              {
+                "article": "Altres ingressos.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "39", 
+                "codi_capitol": "3", 
+                "codi_partida": "39901", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "REINTEGRO ANUNCIS PARTICULARS", 
+                "total": "10.00"
+              }
+            ], 
+            "id": "3-39-39901", 
+            "name": "REINTEGRO ANUNCIS PARTICULARS", 
+            "revenue": {
+              "accounts": {
+                "2016": 10.0, 
+                "2017": 10.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Altres ingressos.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "39", 
+                "codi_capitol": "3", 
+                "codi_partida": "39902", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "DRETS D'EXAMEN", 
+                "total": "10.00"
+              }, 
+              {
+                "article": "Altres ingressos.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "39", 
+                "codi_capitol": "3", 
+                "codi_partida": "39902", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "DRETS D'EXAMEN", 
+                "total": "10.00"
+              }
+            ], 
+            "id": "3-39-39902", 
+            "name": "DRETS D'EXAMEN", 
+            "revenue": {
+              "accounts": {
+                "2016": 10.0, 
+                "2017": 10.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Altres ingressos.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "39", 
+                "codi_capitol": "3", 
+                "codi_partida": "39903", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Altres ingressos diversos.", 
+                "total": "10.00"
+              }, 
+              {
+                "article": "Altres ingressos.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "39", 
+                "codi_capitol": "3", 
+                "codi_partida": "39903", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "ALTRES INGRESSOS DIVERSOS", 
+                "total": "10.00"
+              }
+            ], 
+            "id": "3-39-39903", 
+            "name": "ALTRES INGRESSOS DIVERSOS", 
+            "revenue": {
+              "accounts": {
+                "2016": 10.0, 
+                "2017": 10.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Altres ingressos.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "39", 
+                "codi_capitol": "3", 
+                "codi_partida": "39909", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Altres ingressos_execucio obres", 
+                "total": "10.00"
+              }
+            ], 
+            "id": "3-39-39909", 
+            "name": "Altres ingressos_execucio obres", 
+            "revenue": {
+              "accounts": {
+                "2016": 0.0, 
+                "2017": 10.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Altres ingressos.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "39", 
+                "codi_capitol": "3", 
+                "codi_partida": "39300", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Interessos de demora.", 
+                "total": "80000.00"
+              }, 
+              {
+                "article": "Altres ingressos.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "39", 
+                "codi_capitol": "3", 
+                "codi_partida": "39300", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "INTERESSOS DE DEMORA", 
+                "total": "60000.00"
+              }
+            ], 
+            "id": "3-39-39300", 
+            "name": "INTERESSOS DE DEMORA", 
+            "revenue": {
+              "accounts": {
+                "2016": 80000.0, 
+                "2017": 60000.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Altres ingressos.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "39", 
+                "codi_capitol": "3", 
+                "codi_partida": "39400", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Prestaci\u00f3 personal.", 
+                "total": "800.00"
+              }, 
+              {
+                "article": "Altres ingressos.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "39", 
+                "codi_capitol": "3", 
+                "codi_partida": "39400", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "PRESTACI\u00d3 PERSONAL", 
+                "total": "800.00"
+              }
+            ], 
+            "id": "3-39-39400", 
+            "name": "PRESTACI\u00d3 PERSONAL", 
+            "revenue": {
+              "accounts": {
+                "2016": 800.0, 
+                "2017": 800.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Altres ingressos.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "39", 
+                "codi_capitol": "3", 
+                "codi_partida": "39100", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "MULTES", 
+                "total": "245000.00"
+              }, 
+              {
+                "article": "Altres ingressos.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "39", 
+                "codi_capitol": "3", 
+                "codi_partida": "39100", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "MULTES", 
+                "total": "185000.00"
+              }
+            ], 
+            "id": "3-39-39100", 
+            "name": "MULTES", 
+            "revenue": {
+              "accounts": {
+                "2016": 245000.0, 
+                "2017": 185000.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Altres ingressos.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "39", 
+                "codi_capitol": "3", 
+                "codi_partida": "39101", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "MULTES PER INFRACCIONS URBANISTIQUES", 
+                "total": "225000.00"
+              }, 
+              {
+                "article": "Altres ingressos.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "39", 
+                "codi_capitol": "3", 
+                "codi_partida": "39101", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "MULTES PER INFRACCIONS URBANISTIQUES", 
+                "total": "225000.00"
+              }
+            ], 
+            "id": "3-39-39101", 
+            "name": "MULTES PER INFRACCIONS URBANISTIQUES", 
+            "revenue": {
+              "accounts": {
+                "2016": 225000.0, 
+                "2017": 225000.0
+              }
+            }
+          }
+        ], 
+        "id": "3-39", 
+        "name": "Altres ingressos.", 
+        "revenue": {
+          "accounts": {
+            "2016": 615840.0, 
+            "2017": 525850.0
+          }
+        }
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "article": "Taxes per la prestaci\u00f3 de serveis p\u00fablics b\u00e0sics.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "30", 
+                "codi_capitol": "3", 
+                "codi_partida": "30400", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "C\u00e0non de sanejament.", 
+                "total": "1133878.15"
+              }
+            ], 
+            "id": "3-30-30400", 
+            "name": "C\u00e0non de sanejament.", 
+            "revenue": {
+              "accounts": {
+                "2016": 0.0, 
+                "2017": 1133878.15
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Taxes per la prestaci\u00f3 de serveis p\u00fablics b\u00e0sics.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "30", 
+                "codi_capitol": "3", 
+                "codi_partida": "30000", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Servei de prove\u00efment d\u2019aigua.", 
+                "total": "1120000.00"
+              }, 
+              {
+                "article": "Taxes per la prestaci\u00f3 de serveis p\u00fablics b\u00e0sics.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "30", 
+                "codi_capitol": "3", 
+                "codi_partida": "30000", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "TAXA PER SERVEI PROVE\u00cfMENT D'AIGUA", 
+                "total": "1184566.53"
+              }
+            ], 
+            "id": "3-30-30000", 
+            "name": "TAXA PER SERVEI PROVE\u00cfMENT D'AIGUA", 
+            "revenue": {
+              "accounts": {
+                "2016": 1120000.0, 
+                "2017": 1184566.53
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Taxes per la prestaci\u00f3 de serveis p\u00fablics b\u00e0sics.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "30", 
+                "codi_capitol": "3", 
+                "codi_partida": "30200", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Servei de recollida d\u2019escombraries.", 
+                "total": "3300000.00"
+              }, 
+              {
+                "article": "Taxes per la prestaci\u00f3 de serveis p\u00fablics b\u00e0sics.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "30", 
+                "codi_capitol": "3", 
+                "codi_partida": "30200", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "TAXA SERVEI RECOLLIDA D'ESCOMBRARIES", 
+                "total": "3394795.10"
+              }
+            ], 
+            "id": "3-30-30200", 
+            "name": "TAXA SERVEI RECOLLIDA D'ESCOMBRARIES", 
+            "revenue": {
+              "accounts": {
+                "2016": 3300000.0, 
+                "2017": 3394795.1
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Taxes per la prestaci\u00f3 de serveis p\u00fablics b\u00e0sics.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "30", 
+                "codi_capitol": "3", 
+                "codi_partida": "30201", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "TAXA RECOLLIDA SELECTIVA, PAPER, ENVASOS, VIDRE", 
+                "total": "144000.00"
+              }
+            ], 
+            "id": "3-30-30201", 
+            "name": "TAXA RECOLLIDA SELECTIVA, PAPER, ENVASOS, VIDRE", 
+            "revenue": {
+              "accounts": {
+                "2016": 0.0, 
+                "2017": 144000.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Taxes per la prestaci\u00f3 de serveis p\u00fablics b\u00e0sics.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "30", 
+                "codi_capitol": "3", 
+                "codi_partida": "30501", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "TAXA PER SERVEI DE CREMATORI I TANATORI", 
+                "total": "150000.00"
+              }, 
+              {
+                "article": "Taxes per la prestaci\u00f3 de serveis p\u00fablics b\u00e0sics.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "30", 
+                "codi_capitol": "3", 
+                "codi_partida": "30501", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "TAXA PER SERVEI DE CREMATORI I TANATORI", 
+                "total": "236621.70"
+              }
+            ], 
+            "id": "3-30-30501", 
+            "name": "TAXA PER SERVEI DE CREMATORI I TANATORI", 
+            "revenue": {
+              "accounts": {
+                "2016": 150000.0, 
+                "2017": 236621.7
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Taxes per la prestaci\u00f3 de serveis p\u00fablics b\u00e0sics.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "30", 
+                "codi_capitol": "3", 
+                "codi_partida": "30500", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "CEMENTERIS", 
+                "total": "65000.00"
+              }, 
+              {
+                "article": "Taxes per la prestaci\u00f3 de serveis p\u00fablics b\u00e0sics.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "30", 
+                "codi_capitol": "3", 
+                "codi_partida": "30500", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "TAX PER SERVEI DE CEMENTERI", 
+                "total": "58866.00"
+              }
+            ], 
+            "id": "3-30-30500", 
+            "name": "TAX PER SERVEI DE CEMENTERI", 
+            "revenue": {
+              "accounts": {
+                "2016": 65000.0, 
+                "2017": 58866.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Taxes per la prestaci\u00f3 de serveis p\u00fablics b\u00e0sics.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "30", 
+                "codi_capitol": "3", 
+                "codi_partida": "30100", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Servei de clavegueram.", 
+                "total": "148000.00"
+              }, 
+              {
+                "article": "Taxes per la prestaci\u00f3 de serveis p\u00fablics b\u00e0sics.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "30", 
+                "codi_capitol": "3", 
+                "codi_partida": "30100", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "TAXA SERVEI CLAVEGUERAM", 
+                "total": "345285.00"
+              }
+            ], 
+            "id": "3-30-30100", 
+            "name": "TAXA SERVEI CLAVEGUERAM", 
+            "revenue": {
+              "accounts": {
+                "2016": 148000.0, 
+                "2017": 345285.0
+              }
+            }
+          }
+        ], 
+        "id": "3-30", 
+        "name": "Taxes per la prestaci\u00f3 de serveis p\u00fablics b\u00e0sics.", 
+        "revenue": {
+          "accounts": {
+            "2016": 4783000.0, 
+            "2017": 6498012.4799999995
+          }
+        }
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "article": "Preus p\u00fablics.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "34", 
+                "codi_capitol": "3", 
+                "codi_partida": "34200", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "ACTIVITATS CULTURALS I ESPORTIVES", 
+                "total": "10.00"
+              }, 
+              {
+                "article": "Preus p\u00fablics.", 
+                "capitol": "Taxes, preus p\u00fablics i altres ingressos.", 
+                "codi_article": "34", 
+                "codi_capitol": "3", 
+                "codi_partida": "34200", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "ACTIVITATS CULTURALS I ESPORTIVES", 
+                "total": "20000.00"
+              }
+            ], 
+            "id": "3-34-34200", 
+            "name": "ACTIVITATS CULTURALS I ESPORTIVES", 
+            "revenue": {
+              "accounts": {
+                "2016": 10.0, 
+                "2017": 20000.0
+              }
+            }
+          }
+        ], 
+        "id": "3-34", 
+        "name": "Preus p\u00fablics.", 
+        "revenue": {
+          "accounts": {
+            "2016": 10.0, 
+            "2017": 20000.0
+          }
+        }
+      }
+    ], 
+    "id": "3", 
+    "name": "Taxes, preus p\u00fablics i altres ingressos.", 
+    "revenue": {
+      "accounts": {
+        "2016": 6200860.0, 
+        "2017": 7951443.599999999
+      }
+    }
+  }, 
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "article": "D\u2019entitats locals.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "46", 
+                "codi_capitol": "4", 
+                "codi_partida": "46103", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "CIM SUBVENCIONS", 
+                "total": "10.00"
+              }
+            ], 
+            "id": "4-46-46103", 
+            "name": "CIM SUBVENCIONS", 
+            "revenue": {
+              "accounts": {
+                "2016": 10.0, 
+                "2017": 0.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "D\u2019entitats locals.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "46", 
+                "codi_capitol": "4", 
+                "codi_partida": "46100", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "CIM PLA DE PRESTACIONS BASIQUES", 
+                "total": "194240.60"
+              }, 
+              {
+                "article": "D\u2019entitats locals.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "46", 
+                "codi_capitol": "4", 
+                "codi_partida": "46100", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "CIM PLA DE PRESTACIONS BASIQUES", 
+                "total": "257200.22"
+              }
+            ], 
+            "id": "4-46-46100", 
+            "name": "CIM PLA DE PRESTACIONS BASIQUES", 
+            "revenue": {
+              "accounts": {
+                "2016": 194240.6, 
+                "2017": 257200.22
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "D\u2019entitats locals.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "46", 
+                "codi_capitol": "4", 
+                "codi_partida": "46101", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "TRANSF. CIM INSTITUT SERVEIS SOCIALS I ESPORTIUS", 
+                "total": "16691.90"
+              }, 
+              {
+                "article": "D\u2019entitats locals.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "46", 
+                "codi_capitol": "4", 
+                "codi_partida": "46101", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "SUBVENCI\u00d3 C.I.M AJUDES MENORS EXCLUSI\u00d3", 
+                "total": "16691.90"
+              }
+            ], 
+            "id": "4-46-46101", 
+            "name": "SUBVENCI\u00d3 C.I.M AJUDES MENORS EXCLUSI\u00d3", 
+            "revenue": {
+              "accounts": {
+                "2016": 16691.9, 
+                "2017": 16691.9
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "D\u2019entitats locals.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "46", 
+                "codi_capitol": "4", 
+                "codi_partida": "46108", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "CIM PLA SUPORT", 
+                "total": "10.00"
+              }
+            ], 
+            "id": "4-46-46108", 
+            "name": "CIM PLA SUPORT", 
+            "revenue": {
+              "accounts": {
+                "2016": 10.0, 
+                "2017": 0.0
+              }
+            }
+          }
+        ], 
+        "id": "4-46", 
+        "name": "D\u2019entitats locals.", 
+        "revenue": {
+          "accounts": {
+            "2016": 210952.5, 
+            "2017": 273892.12
+          }
+        }
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "article": "D\u2019empreses privades.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "47", 
+                "codi_capitol": "4", 
+                "codi_partida": "47000", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "D\u2019empreses privades.", 
+                "total": "10.00"
+              }
+            ], 
+            "id": "4-47-47000", 
+            "name": "D\u2019empreses privades.", 
+            "revenue": {
+              "accounts": {
+                "2016": 10.0, 
+                "2017": 0.0
+              }
+            }
+          }
+        ], 
+        "id": "4-47", 
+        "name": "D\u2019empreses privades.", 
+        "revenue": {
+          "accounts": {
+            "2016": 10.0, 
+            "2017": 0.0
+          }
+        }
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45005", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "De l\u2019administraci\u00f3 general de les comunitats aut\u00f2nomes.", 
+                "total": "10.00"
+              }
+            ], 
+            "id": "4-45-45005", 
+            "name": "De l\u2019administraci\u00f3 general de les comunitats aut\u00f2nomes.", 
+            "revenue": {
+              "accounts": {
+                "2016": 10.0, 
+                "2017": 0.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45002", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "CAIB CONSELLERIA AFERS SOCIALS EDUCACIO FAMILIAR", 
+                "total": "10.00"
+              }
+            ], 
+            "id": "4-45-45002", 
+            "name": "CAIB CONSELLERIA AFERS SOCIALS EDUCACIO FAMILIAR", 
+            "revenue": {
+              "accounts": {
+                "2016": 10.0, 
+                "2017": 0.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45000", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "PARTICIPACIO TRIBUTS COMUNITAT AUTONOMA", 
+                "total": "242920.63"
+              }, 
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45000", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "PARTICIPACIO TRIBUTS COMUNITAT AUTONOMA", 
+                "total": "242920.63"
+              }
+            ], 
+            "id": "4-45-45000", 
+            "name": "PARTICIPACIO TRIBUTS COMUNITAT AUTONOMA", 
+            "revenue": {
+              "accounts": {
+                "2016": 242920.63, 
+                "2017": 242920.63
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45001", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Altres transfer\u00e8ncies incondicionades.", 
+                "total": "10.00"
+              }, 
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45001", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "FONS DE SEGURETAT P\u00daBLICA", 
+                "total": "22212.76"
+              }
+            ], 
+            "id": "4-45-45001", 
+            "name": "FONS DE SEGURETAT P\u00daBLICA", 
+            "revenue": {
+              "accounts": {
+                "2016": 10.0, 
+                "2017": 22212.76
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45071", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "CAIB.EBAP PLANS DE FORMACIO DE LES EELL DE LES ILLES BALEARS", 
+                "total": "10.00"
+              }
+            ], 
+            "id": "4-45-45071", 
+            "name": "CAIB.EBAP PLANS DE FORMACIO DE LES EELL DE LES ILLES BALEARS", 
+            "revenue": {
+              "accounts": {
+                "2016": 10.0, 
+                "2017": 0.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45070", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "CAIB. CURS XINES BASIC ATENCIO AL PUBLIC", 
+                "total": "7247.10"
+              }
+            ], 
+            "id": "4-45-45070", 
+            "name": "CAIB. CURS XINES BASIC ATENCIO AL PUBLIC", 
+            "revenue": {
+              "accounts": {
+                "2016": 7247.1, 
+                "2017": 0.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45095", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "SUBVENCIO INCA PRO", 
+                "total": "154967.00"
+              }
+            ], 
+            "id": "4-45-45095", 
+            "name": "SUBVENCIO INCA PRO", 
+            "revenue": {
+              "accounts": {
+                "2016": 0.0, 
+                "2017": 154967.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45094", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "SUBVENCIO S'ESCAIRE", 
+                "total": "167086.00"
+              }
+            ], 
+            "id": "4-45-45094", 
+            "name": "SUBVENCIO S'ESCAIRE", 
+            "revenue": {
+              "accounts": {
+                "2016": 0.0, 
+                "2017": 167086.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45097", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "SUBVENCIO ADL", 
+                "total": "66872.96"
+              }
+            ], 
+            "id": "4-45-45097", 
+            "name": "SUBVENCIO ADL", 
+            "revenue": {
+              "accounts": {
+                "2016": 0.0, 
+                "2017": 66872.96
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45096", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "SUBENCIO INCA TUR", 
+                "total": "161382.00"
+              }
+            ], 
+            "id": "4-45-45096", 
+            "name": "SUBENCIO INCA TUR", 
+            "revenue": {
+              "accounts": {
+                "2016": 0.0, 
+                "2017": 161382.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45093", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "SUBVENCIO INCA DIGITAL", 
+                "total": "178490.00"
+              }
+            ], 
+            "id": "4-45-45093", 
+            "name": "SUBVENCIO INCA DIGITAL", 
+            "revenue": {
+              "accounts": {
+                "2016": 0.0, 
+                "2017": 178490.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45015", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "SUBENCI\u00d3 CONTRACTACI\u00d3 MESTRES SUPORT EXTRAESCOLAR", 
+                "total": "32958.96"
+              }
+            ], 
+            "id": "4-45-45015", 
+            "name": "SUBENCI\u00d3 CONTRACTACI\u00d3 MESTRES SUPORT EXTRAESCOLAR", 
+            "revenue": {
+              "accounts": {
+                "2016": 32958.96, 
+                "2017": 0.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45014", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "SUBVENCI\u00d3 CONTRACTACI\u00d3 I FORMACIO PERSONAL CEMENTERI", 
+                "total": "26066.34"
+              }
+            ], 
+            "id": "4-45-45014", 
+            "name": "SUBVENCI\u00d3 CONTRACTACI\u00d3 I FORMACIO PERSONAL CEMENTERI", 
+            "revenue": {
+              "accounts": {
+                "2016": 26066.34, 
+                "2017": 0.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45017", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "SUBVENCI\u00d3 CONTRACTACI\u00d3 I FORMACI\u00d3 PARC D'ES SERRALT ", 
+                "total": "74068.50"
+              }
+            ], 
+            "id": "4-45-45017", 
+            "name": "SUBVENCI\u00d3 CONTRACTACI\u00d3 I FORMACI\u00d3 PARC D'ES SERRALT ", 
+            "revenue": {
+              "accounts": {
+                "2016": 74068.5, 
+                "2017": 0.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45016", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "SUBVENCI\u00d3 TALLERS GRUPALS RECERCA TREBALL", 
+                "total": "16398.84"
+              }
+            ], 
+            "id": "4-45-45016", 
+            "name": "SUBVENCI\u00d3 TALLERS GRUPALS RECERCA TREBALL", 
+            "revenue": {
+              "accounts": {
+                "2016": 16398.84, 
+                "2017": 0.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45011", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "PROJECTE MIXT OCUPACI\u00d3 PERSONES JOVES DIGITALITZAT", 
+                "total": "239777.30"
+              }, 
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45011", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "PROJECTE MIXT OCUPACI\u00d3 PERSONES JOVES DIGITALITZAT", 
+                "total": "99397.02"
+              }
+            ], 
+            "id": "4-45-45011", 
+            "name": "PROJECTE MIXT OCUPACI\u00d3 PERSONES JOVES DIGITALITZAT", 
+            "revenue": {
+              "accounts": {
+                "2016": 239777.3, 
+                "2017": 99397.02
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45010", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "PROJECTE MIXT OCUPACI\u00d3 ES TAULER", 
+                "total": "238068.50"
+              }, 
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45010", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "PROJECTE MIXT OCUPACI\u00d3 ES TAULER", 
+                "total": "97410.92"
+              }
+            ], 
+            "id": "4-45-45010", 
+            "name": "PROJECTE MIXT OCUPACI\u00d3 ES TAULER", 
+            "revenue": {
+              "accounts": {
+                "2016": 238068.5, 
+                "2017": 97410.92
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45013", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "SUBVENCIO CAIB MERCAT MUNICIPAL", 
+                "total": "16740.72"
+              }
+            ], 
+            "id": "4-45-45013", 
+            "name": "SUBVENCIO CAIB MERCAT MUNICIPAL", 
+            "revenue": {
+              "accounts": {
+                "2016": 16740.72, 
+                "2017": 0.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45019", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "SUBVENCI\u00d3 ACCIONS FORMATIVES AUXILARS ADMINISTRATIUS I DE SERVEIS", 
+                "total": "20700.00"
+              }, 
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45019", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "SUBVENCI\u00d3 ACCIONS FORMATIVES AUXILARS ADMINISTRATIUS I DE SERVEIS", 
+                "total": "8280.00"
+              }
+            ], 
+            "id": "4-45-45019", 
+            "name": "SUBVENCI\u00d3 ACCIONS FORMATIVES AUXILARS ADMINISTRATIUS I DE SERVEIS", 
+            "revenue": {
+              "accounts": {
+                "2016": 20700.0, 
+                "2017": 8280.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45018", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "De l\u2019administraci\u00f3 general de les comunitats aut\u00f2nomes.", 
+                "total": "12700.00"
+              }, 
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45018", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "SUBVENCI\u00d3 ACTIVITATS AUXILIARS DE COMER\u00c7", 
+                "total": "5080.00"
+              }
+            ], 
+            "id": "4-45-45018", 
+            "name": "SUBVENCI\u00d3 ACTIVITATS AUXILIARS DE COMER\u00c7", 
+            "revenue": {
+              "accounts": {
+                "2016": 12700.0, 
+                "2017": 5080.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45064", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "CAIB CONTRACTACIO AGENTS D'OCUPACIO I DESENVOLUPAMENT LOCAL", 
+                "total": "10.00"
+              }
+            ], 
+            "id": "4-45-45064", 
+            "name": "CAIB CONTRACTACIO AGENTS D'OCUPACIO I DESENVOLUPAMENT LOCAL", 
+            "revenue": {
+              "accounts": {
+                "2016": 10.0, 
+                "2017": 0.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45067", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "CAIB. CURS ACTIVITATS DE GESTIO DEL PETIT COMER\u00c7", 
+                "total": "6140.92"
+              }
+            ], 
+            "id": "4-45-45067", 
+            "name": "CAIB. CURS ACTIVITATS DE GESTIO DEL PETIT COMER\u00c7", 
+            "revenue": {
+              "accounts": {
+                "2016": 6140.92, 
+                "2017": 0.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45069", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "CAIB.CURS RUS ATENCIO AL PUBLIC", 
+                "total": "5596.77"
+              }
+            ], 
+            "id": "4-45-45069", 
+            "name": "CAIB.CURS RUS ATENCIO AL PUBLIC", 
+            "revenue": {
+              "accounts": {
+                "2016": 5596.77, 
+                "2017": 0.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "45", 
+                "codi_capitol": "4", 
+                "codi_partida": "45080", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "CAIB SUBVENCIONS", 
+                "total": "10.00"
+              }
+            ], 
+            "id": "4-45-45080", 
+            "name": "CAIB SUBVENCIONS", 
+            "revenue": {
+              "accounts": {
+                "2016": 10.0, 
+                "2017": 0.0
+              }
+            }
+          }
+        ], 
+        "id": "4-45", 
+        "name": "De comunitats aut\u00f2nomes.", 
+        "revenue": {
+          "accounts": {
+            "2016": 939444.5799999998, 
+            "2017": 1204099.29
+          }
+        }
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "article": "De l\u2019Administraci\u00f3 de l\u2019Estat.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "42", 
+                "codi_capitol": "4", 
+                "codi_partida": "42000", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Participaci\u00f3 en els tributs de l\u2019Estat.", 
+                "total": "6091543.80"
+              }, 
+              {
+                "article": "De l\u2019Administraci\u00f3 de l\u2019Estat.", 
+                "capitol": "Transfer\u00e8ncies corrents.", 
+                "codi_article": "42", 
+                "codi_capitol": "4", 
+                "codi_partida": "42000", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "PARTICIPACI\u00d3 TRIBUTS DE L'ESTAT", 
+                "total": "6091543.80"
+              }
+            ], 
+            "id": "4-42-42000", 
+            "name": "PARTICIPACI\u00d3 TRIBUTS DE L'ESTAT", 
+            "revenue": {
+              "accounts": {
+                "2016": 6091543.8, 
+                "2017": 6091543.8
+              }
+            }
+          }
+        ], 
+        "id": "4-42", 
+        "name": "De l\u2019Administraci\u00f3 de l\u2019Estat.", 
+        "revenue": {
+          "accounts": {
+            "2016": 6091543.8, 
+            "2017": 6091543.8
+          }
+        }
+      }
+    ], 
+    "id": "4", 
+    "name": "Transfer\u00e8ncies corrents.", 
+    "revenue": {
+      "accounts": {
+        "2016": 7241950.879999998, 
+        "2017": 7569535.209999999
+      }
+    }
+  }, 
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "article": "Altres impostos indirectes.", 
+                "capitol": "Impostos indirectes.", 
+                "codi_article": "29", 
+                "codi_capitol": "2", 
+                "codi_partida": "29000", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Impost sobre construccions, instal\u00b7lacions i obres.", 
+                "total": "250000.00"
+              }, 
+              {
+                "article": "Altres impostos indirectes.", 
+                "capitol": "Impostos indirectes.", 
+                "codi_article": "29", 
+                "codi_capitol": "2", 
+                "codi_partida": "29000", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "IMPOST SOBRE CONSTRUCCION INSTAL\u00b7LACIONS I OBRES", 
+                "total": "250000.00"
+              }
+            ], 
+            "id": "2-29-29000", 
+            "name": "IMPOST SOBRE CONSTRUCCION INSTAL\u00b7LACIONS I OBRES", 
+            "revenue": {
+              "accounts": {
+                "2016": 250000.0, 
+                "2017": 250000.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Altres impostos indirectes.", 
+                "capitol": "Impostos indirectes.", 
+                "codi_article": "29", 
+                "codi_capitol": "2", 
+                "codi_partida": "29100", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Impost sobre despeses sumptu\u00e0ries (vedats de ca\u00e7a i pesca).", 
+                "total": "700.00"
+              }, 
+              {
+                "article": "Altres impostos indirectes.", 
+                "capitol": "Impostos indirectes.", 
+                "codi_article": "29", 
+                "codi_capitol": "2", 
+                "codi_partida": "29100", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "IMPOST SOBRE DESPESES SUMPTU\u00c0RIES (VEDATS CA\u00c7A I PESCA)", 
+                "total": "900.00"
+              }
+            ], 
+            "id": "2-29-29100", 
+            "name": "IMPOST SOBRE DESPESES SUMPTU\u00c0RIES (VEDATS CA\u00c7A I PESCA)", 
+            "revenue": {
+              "accounts": {
+                "2016": 700.0, 
+                "2017": 900.0
+              }
+            }
+          }
+        ], 
+        "id": "2-29", 
+        "name": "Altres impostos indirectes.", 
+        "revenue": {
+          "accounts": {
+            "2016": 250700.0, 
+            "2017": 250900.0
+          }
+        }
+      }
+    ], 
+    "id": "2", 
+    "name": "Impostos indirectes.", 
+    "revenue": {
+      "accounts": {
+        "2016": 250700.0, 
+        "2017": 250900.0
+      }
+    }
+  }, 
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "article": "Productes de concessions i aprofitaments especials.", 
+                "capitol": "Ingressos patrimonials.", 
+                "codi_article": "55", 
+                "codi_capitol": "5", 
+                "codi_partida": "55908", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "CONCESSIO RETIRADA DE VEHICLES", 
+                "total": "100.00"
+              }, 
+              {
+                "article": "Productes de concessions i aprofitaments especials.", 
+                "capitol": "Ingressos patrimonials.", 
+                "codi_article": "55", 
+                "codi_capitol": "5", 
+                "codi_partida": "55908", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "CONCESSIO RETIRADA DE VEHICLES", 
+                "total": "100.00"
+              }
+            ], 
+            "id": "5-55-55908", 
+            "name": "CONCESSIO RETIRADA DE VEHICLES", 
+            "revenue": {
+              "accounts": {
+                "2016": 100.0, 
+                "2017": 100.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Productes de concessions i aprofitaments especials.", 
+                "capitol": "Ingressos patrimonials.", 
+                "codi_article": "55", 
+                "codi_capitol": "5", 
+                "codi_partida": "55909", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "CONCESSIO POLIESPORTIU MATEU CA\u00d1ELLAS", 
+                "total": "600.00"
+              }, 
+              {
+                "article": "Productes de concessions i aprofitaments especials.", 
+                "capitol": "Ingressos patrimonials.", 
+                "codi_article": "55", 
+                "codi_capitol": "5", 
+                "codi_partida": "55909", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "CONCESSIO POLIESPORTIU MATEU CA\u00d1ELLAS", 
+                "total": "600.00"
+              }
+            ], 
+            "id": "5-55-55909", 
+            "name": "CONCESSIO POLIESPORTIU MATEU CA\u00d1ELLAS", 
+            "revenue": {
+              "accounts": {
+                "2016": 600.0, 
+                "2017": 600.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Productes de concessions i aprofitaments especials.", 
+                "capitol": "Ingressos patrimonials.", 
+                "codi_article": "55", 
+                "codi_capitol": "5", 
+                "codi_partida": "55002", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "CONCESSIO ADMINISTRATIVA ORA", 
+                "total": "10.00"
+              }
+            ], 
+            "id": "5-55-55002", 
+            "name": "CONCESSIO ADMINISTRATIVA ORA", 
+            "revenue": {
+              "accounts": {
+                "2016": 10.0, 
+                "2017": 0.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Productes de concessions i aprofitaments especials.", 
+                "capitol": "Ingressos patrimonials.", 
+                "codi_article": "55", 
+                "codi_capitol": "5", 
+                "codi_partida": "55001", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "PUBLICITAT VALLES", 
+                "total": "64000.00"
+              }, 
+              {
+                "article": "Productes de concessions i aprofitaments especials.", 
+                "capitol": "Ingressos patrimonials.", 
+                "codi_article": "55", 
+                "codi_capitol": "5", 
+                "codi_partida": "55001", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "PUBLICITAT VALLES", 
+                "total": "62000.00"
+              }
+            ], 
+            "id": "5-55-55001", 
+            "name": "PUBLICITAT VALLES", 
+            "revenue": {
+              "accounts": {
+                "2016": 64000.0, 
+                "2017": 62000.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Productes de concessions i aprofitaments especials.", 
+                "capitol": "Ingressos patrimonials.", 
+                "codi_article": "55", 
+                "codi_capitol": "5", 
+                "codi_partida": "55000", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "MERCAT COBERT MUNICIPAL", 
+                "total": "30000.00"
+              }, 
+              {
+                "article": "Productes de concessions i aprofitaments especials.", 
+                "capitol": "Ingressos patrimonials.", 
+                "codi_article": "55", 
+                "codi_capitol": "5", 
+                "codi_partida": "55000", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "MERCAT COBERT MUNICIPAL", 
+                "total": "31000.00"
+              }
+            ], 
+            "id": "5-55-55000", 
+            "name": "MERCAT COBERT MUNICIPAL", 
+            "revenue": {
+              "accounts": {
+                "2016": 30000.0, 
+                "2017": 31000.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "Productes de concessions i aprofitaments especials.", 
+                "capitol": "Ingressos patrimonials.", 
+                "codi_article": "55", 
+                "codi_capitol": "5", 
+                "codi_partida": "55907", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "ALTRES PRODUCTES DE CONCESSIONS I APROFIT. ESP.", 
+                "total": "35000.00"
+              }, 
+              {
+                "article": "Productes de concessions i aprofitaments especials.", 
+                "capitol": "Ingressos patrimonials.", 
+                "codi_article": "55", 
+                "codi_capitol": "5", 
+                "codi_partida": "55907", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "ALTRES PRODUCTES DE CONCESSIONS I APROFIT. ESP.", 
+                "total": "47000.00"
+              }
+            ], 
+            "id": "5-55-55907", 
+            "name": "ALTRES PRODUCTES DE CONCESSIONS I APROFIT. ESP.", 
+            "revenue": {
+              "accounts": {
+                "2016": 35000.0, 
+                "2017": 47000.0
+              }
+            }
+          }
+        ], 
+        "id": "5-55", 
+        "name": "Productes de concessions i aprofitaments especials.", 
+        "revenue": {
+          "accounts": {
+            "2016": 129710.0, 
+            "2017": 140700.0
+          }
+        }
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "article": "Rendes de b\u00e9ns immobles.", 
+                "capitol": "Ingressos patrimonials.", 
+                "codi_article": "54", 
+                "codi_capitol": "5", 
+                "codi_partida": "54100", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Arrendaments de finques urbanes.", 
+                "total": "6500.00"
+              }, 
+              {
+                "article": "Rendes de b\u00e9ns immobles.", 
+                "capitol": "Ingressos patrimonials.", 
+                "codi_article": "54", 
+                "codi_capitol": "5", 
+                "codi_partida": "54100", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "ARRENDAMENTS FINQUES URBANES", 
+                "total": "8500.00"
+              }
+            ], 
+            "id": "5-54-54100", 
+            "name": "ARRENDAMENTS FINQUES URBANES", 
+            "revenue": {
+              "accounts": {
+                "2016": 6500.0, 
+                "2017": 8500.0
+              }
+            }
+          }
+        ], 
+        "id": "5-54", 
+        "name": "Rendes de b\u00e9ns immobles.", 
+        "revenue": {
+          "accounts": {
+            "2016": 6500.0, 
+            "2017": 8500.0
+          }
+        }
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "article": "Interessos de dip\u00f2sits.", 
+                "capitol": "Ingressos patrimonials.", 
+                "codi_article": "52", 
+                "codi_capitol": "5", 
+                "codi_partida": "52100", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Interessos de dip\u00f2sits.", 
+                "total": "40000.00"
+              }, 
+              {
+                "article": "Interessos de dip\u00f2sits.", 
+                "capitol": "Ingressos patrimonials.", 
+                "codi_article": "52", 
+                "codi_capitol": "5", 
+                "codi_partida": "52100", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "INTERESSOS DIP\u00d2SITS", 
+                "total": "5000.00"
+              }
+            ], 
+            "id": "5-52-52100", 
+            "name": "INTERESSOS DIP\u00d2SITS", 
+            "revenue": {
+              "accounts": {
+                "2016": 40000.0, 
+                "2017": 5000.0
+              }
+            }
+          }
+        ], 
+        "id": "5-52", 
+        "name": "Interessos de dip\u00f2sits.", 
+        "revenue": {
+          "accounts": {
+            "2016": 40000.0, 
+            "2017": 5000.0
+          }
+        }
+      }
+    ], 
+    "id": "5", 
+    "name": "Ingressos patrimonials.", 
+    "revenue": {
+      "accounts": {
+        "2016": 176210.0, 
+        "2017": 154200.0
+      }
+    }
+  }, 
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies de capital.", 
+                "codi_article": "75", 
+                "codi_capitol": "7", 
+                "codi_partida": "75089", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "SUBVENCI\u00d3 CAPITAL REFORMA VESTIDORS MATEU CANYELLES", 
+                "total": "87800.00"
+              }
+            ], 
+            "id": "7-75-75089", 
+            "name": "SUBVENCI\u00d3 CAPITAL REFORMA VESTIDORS MATEU CANYELLES", 
+            "revenue": {
+              "accounts": {
+                "2016": 0.0, 
+                "2017": 87800.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies de capital.", 
+                "codi_article": "75", 
+                "codi_capitol": "7", 
+                "codi_partida": "75080", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "CAIB TRANSF. EXTRES DEPURADORA", 
+                "total": "10.00"
+              }, 
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies de capital.", 
+                "codi_article": "75", 
+                "codi_capitol": "7", 
+                "codi_partida": "75080", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "CAIB TRANSF. EXTRES DEPURADORA", 
+                "total": "10.00"
+              }
+            ], 
+            "id": "7-75-75080", 
+            "name": "CAIB TRANSF. EXTRES DEPURADORA", 
+            "revenue": {
+              "accounts": {
+                "2016": 10.0, 
+                "2017": 10.0
+              }
+            }
+          }, 
+          {
+            "children": [
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies de capital.", 
+                "codi_article": "75", 
+                "codi_capitol": "7", 
+                "codi_partida": "75525", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "CAIB SUBV. CASAL JOVES", 
+                "total": "48068.31"
+              }, 
+              {
+                "article": "De comunitats aut\u00f2nomes.", 
+                "capitol": "Transfer\u00e8ncies de capital.", 
+                "codi_article": "75", 
+                "codi_capitol": "7", 
+                "codi_partida": "75525", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "SUBVENCI\u00d3 CAPITAL CAIB CASAL JOVES", 
+                "total": "48068.31"
+              }
+            ], 
+            "id": "7-75-75525", 
+            "name": "SUBVENCI\u00d3 CAPITAL CAIB CASAL JOVES", 
+            "revenue": {
+              "accounts": {
+                "2016": 48068.31, 
+                "2017": 48068.31
+              }
+            }
+          }
+        ], 
+        "id": "7-75", 
+        "name": "De comunitats aut\u00f2nomes.", 
+        "revenue": {
+          "accounts": {
+            "2016": 48078.31, 
+            "2017": 135878.31
+          }
+        }
+      }
+    ], 
+    "id": "7", 
+    "name": "Transfer\u00e8ncies de capital.", 
+    "revenue": {
+      "accounts": {
+        "2016": 48078.31, 
+        "2017": 135878.31
+      }
+    }
+  }, 
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "article": "De les altres inversions reals.", 
+                "capitol": "Alienaci\u00f3 d\u2019inversions reals.", 
+                "codi_article": "61", 
+                "codi_capitol": "6", 
+                "codi_partida": "61900", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Alineacions ampliacions cementiri", 
+                "total": "10.00"
+              }, 
+              {
+                "article": "De les altres inversions reals.", 
+                "capitol": "Alienaci\u00f3 d\u2019inversions reals.", 
+                "codi_article": "61", 
+                "codi_capitol": "6", 
+                "codi_partida": "61900", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "ALIENACI\u00d3 AMPLIACIONS CEMENTERI", 
+                "total": "10.00"
+              }
+            ], 
+            "id": "6-61-61900", 
+            "name": "ALIENACI\u00d3 AMPLIACIONS CEMENTERI", 
+            "revenue": {
+              "accounts": {
+                "2016": 10.0, 
+                "2017": 10.0
+              }
+            }
+          }
+        ], 
+        "id": "6-61", 
+        "name": "De les altres inversions reals.", 
+        "revenue": {
+          "accounts": {
+            "2016": 10.0, 
+            "2017": 10.0
+          }
+        }
+      }
+    ], 
+    "id": "6", 
+    "name": "Alienaci\u00f3 d\u2019inversions reals.", 
+    "revenue": {
+      "accounts": {
+        "2016": 10.0, 
+        "2017": 10.0
+      }
+    }
+  }, 
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "article": "Reintegraments de pr\u00e9stecs de fora del sector p\u00fablic.", 
+                "capitol": "Actius financers.", 
+                "codi_article": "83", 
+                "codi_capitol": "8", 
+                "codi_partida": "83000", 
+                "exercici": "2016", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "Reintegraments de pr\u00e9stecs de fora del sector p\u00fablic a curt termini.", 
+                "total": "10.00"
+              }, 
+              {
+                "article": "Reintegraments de pr\u00e9stecs de fora del sector p\u00fablic.", 
+                "capitol": "Actius financers.", 
+                "codi_article": "83", 
+                "codi_capitol": "8", 
+                "codi_partida": "83000", 
+                "exercici": "2017", 
+                "organisme": "AJUNTAMENT D'INCA", 
+                "partida": "AVAN\u00c7AMENTS  I PR\u00c9STECS AL PERSONAL A C/T", 
+                "total": "10.00"
+              }
+            ], 
+            "id": "8-83-83000", 
+            "name": "AVAN\u00c7AMENTS  I PR\u00c9STECS AL PERSONAL A C/T", 
+            "revenue": {
+              "accounts": {
+                "2016": 10.0, 
+                "2017": 10.0
+              }
+            }
+          }
+        ], 
+        "id": "8-83", 
+        "name": "Reintegraments de pr\u00e9stecs de fora del sector p\u00fablic.", 
+        "revenue": {
+          "accounts": {
+            "2016": 10.0, 
+            "2017": 10.0
+          }
+        }
+      }
+    ], 
+    "id": "8", 
+    "name": "Actius financers.", 
+    "revenue": {
+      "accounts": {
+        "2016": 10.0, 
+        "2017": 10.0
+      }
+    }
+  }
+]
