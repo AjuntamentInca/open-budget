@@ -24,13 +24,11 @@ gulp.task('default', ['clean'], function() {
  */
 gulp.task('usemin', function() {
 	return gulp.src(dir.dev + '*.html')
-		.pipe(usemin({
-			css: [minifyCss(), 'concat'],
-			js_vendor: [uglify()],
-			js_app: [uglify()],
-			html: [minifyHtml({
-				conditionals: true
-			})]
+		.pipe(usemin({			
+			css: [function () { return minifyCss();}, 'concat'],
+			js_vendor: [function () { return uglify();}],
+			js_app: [function () { return uglify();}],
+			html: [function () { return minifyHtml({ conditionals: true}); }],
 		}))
 		.pipe(gulp.dest(dir.prod));
 });
