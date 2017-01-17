@@ -1,6 +1,8 @@
 OpenBudget.tooltip = (function() {
     var $body = $('body');
-    var formatCHF = d3.format(',f');
+    var formatCHF = function(value){
+        return d3.format(',f')(value).replace('.', ' ').replace(/,/g, '.').replace(' ', ',');
+    }
     var formatDiffPercent = d3.format('+.2');
     var $tip = $('<div id="tooltip"></div>').html('<div></div>').hide().appendTo($body);
     var $tipInner = $tip.find('div');
@@ -12,14 +14,15 @@ OpenBudget.tooltip = (function() {
     });
 
     $(document).on('mouseover', 'svg#canvas circle', function(){
-        var d = this.__data__, valueLabel = '', currencyPrefix = OpenBudget.data.meta.currency_prefix;
+        var d = this.__data__, valueLabel = '', currencyPrefix = OpenBudget.data.meta.currency_prefix||'',
+            currencySufix = OpenBudget.data.meta.currency_sufix||'';
         if(d.type == 'revenue' || d.type == 'gross_cost') {
             valueLabel = OpenBudget.data.meta[d.type + '_label'] + ': ';
         }
 
         $tipInner.html(
             '<span class="name">'+d.name+'</span><br />'+
-            valueLabel+currencyPrefix+formatCHF(d.value)+' <span class="percent">'+formatDiffPercent(d.diff)+'%</span>'/*+'<br />'+
+            valueLabel+currencyPrefix+formatCHF(d.value)+currencySufix+' <span class="percent">'+formatDiffPercent(d.diff)+'%</span>'/*+'<br />'+
             valueLabel+'CHF '+formatCHF(d.value2)+' '+formatDiffPercent(d.diff)+'%'*/
         );
         $tipInner.find('span.percent').css('color', d.stroke);

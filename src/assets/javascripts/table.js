@@ -10,7 +10,9 @@ $(function() {
             $compareTrTemplate = $tBody.find('tr.compare').detach(),
             $breadcrumb = $('.breadcrumb');
 
-        var formatCHF = d3.format(',f'),
+        var formatCHF = function(value){
+                return d3.format(',.2f')(value).replace('.', ' ').replace(/,/g, '.').replace(' ', ',');
+            },
             formatDiffPercent = d3.format('+.2'),
             formatProportionPercent = d3.format('.2f');
 
@@ -98,16 +100,48 @@ $(function() {
                             });
                         }
                         else {*/
-                            var type = /*firstDataSet.nodes.gross_cost === undefined ? 'revenue' :*/ 'gross_cost';
+                            var type = firstDataSet.nodes.gross_cost === undefined ? 'revenue' : 'gross_cost';
 
                             $compareHead.clone().appendTo($tHead).find('th:eq(0)').text(labelOfDepth[firstDataSet.nodes[type].depth]);
+
+                            var getNodeTitle = function(node, def){
+                                if (!node || !node.info){
+                                    return def;
+                                }
+                                var info = node.info;
+                                var result = 'Partida: ';
+                                if (info.codi_programa){
+                                    result += info.codi_programa + ".";
+                                }
+                                if (info.codi_partida){
+                                    result += info.codi_partida + " ";
+                                }
+                                if (info.partida){
+                                    result += info.partida;
+                                }
+                                result += ' (';
+                                if (info.organisme){
+                                    result += info.organisme + " > ";
+                                }
+                                if (info.pol_despesa){
+                                    result += info.pol_despesa + " > ";
+                                }
+                                if (info.programa){
+                                    result += info.programa + " > ";
+                                }
+                                if (info.capitol){
+                                    result += info.capitol;
+                                }
+                                result += ')';
+                                return result;
+                            };
 
                             _.each(dataSets, function(dataSet) {
                                 var $tr = $compareTrTemplate.clone(),
                                     d = dataSet.nodes[type];
 
                                 $tr.attr('id', 'tr-'+dataSet.id);
-                                $tr.find('.name').text(dataSet.name);
+                                $tr.find('.name').text(dataSet.name).attr('title', getNodeTitle(d, dataSet.name));
                                 $tr.find('.value').text(formatCHF(d.value));
                                 $tr.find('.diff').text(formatDiffPercent(dataSet.nodes[type].diff)+'%').css('color', d.stroke).attr('data-toggle', 'tooltip').attr('data-container', 'body').attr('title', 'Percent Change between FY15 and FY16');
                                 $tr.find('.value2').text(formatCHF(d.value2));

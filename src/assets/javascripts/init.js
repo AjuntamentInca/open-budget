@@ -29,7 +29,7 @@ $(document).ajaxStart(function() {
 $(document).ready(function() {
     $('#toggle').click(function(e) {
         $('#sidebar-parent').toggle();
-        $(e.currentTarget).text($(e.currentTarget).text() === 'Visualization' ? 'Table' : 'Visualization');
+        $(e.currentTarget).text($(e.currentTarget).text() === 'Visualització' ? 'Taula' : 'Visualització');
         e.preventDefault();
     })
 })

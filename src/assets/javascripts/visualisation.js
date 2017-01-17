@@ -28,8 +28,8 @@ $(function() {
                     defaultText: OpenBudget.data.meta.base_headline,
                     text: OpenBudget.data.meta.base_headline,
                     center: nodes.centers.topMiddle//topLeft
-                }/*,
-                {
+                },
+                /*{
                     type: 'revenue',
                     text: OpenBudget.data.meta.revenue_label,
                     center: nodes.centers.topRight

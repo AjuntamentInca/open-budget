@@ -11,10 +11,10 @@ OpenBudget.nodes = (function() {
     var totals,
         setupTotals = function() {
             totals = {
-                /*'revenue': {
+                'revenue': {
                     'value': 0,
                     'value2': 0
-                },*/
+                },
                 'gross_cost': {
                     'value': 0,
                     'value2': 0
@@ -48,7 +48,7 @@ OpenBudget.nodes = (function() {
 
     var meta = OpenBudget.data.meta,
         valuesAccessorForNodeType = {
-        //'revenue': valuesAccessor('revenue', meta.value, meta.value2),
+        'revenue': valuesAccessor('revenue', meta.value, meta.value2),
         'gross_cost': valuesAccessor('gross_cost', meta.value, meta.value2)
     };
 
@@ -74,7 +74,12 @@ OpenBudget.nodes = (function() {
         var type = parent.type,
             depth = parent.depth+1,
             values = valuesAccessorForNodeType[type](datum);
-        if(!values) return;
+        if(!values){
+            if (datum.exercici && datum.exercici == meta.value.year){
+                parent.info = datum;
+            }
+            return;            
+        } 
 
         var node = {
             'name': datum.name,
@@ -101,7 +106,7 @@ OpenBudget.nodes = (function() {
             totals[type].value += values.value;
             totals[type].value2 += values.value2;
 
-            node.name = $.trim(node.name.replace(/^Direktion für/, ''));
+            node.name = $.trim(node.name);
         }
         nodes.push(node);
 
@@ -110,17 +115,17 @@ OpenBudget.nodes = (function() {
 
     var createNodes = function(key, datum, parents) {
         if(!parents) parents = {
-            /*'revenue': {
+            'revenue': {
                 'depth': -1,
                 'type': 'revenue'
-            },*/
+            },
             'gross_cost': {
                 'depth': -1,
                 'type': 'gross_cost'
             }
         };
         return {
-            //'revenue': createNode(key, datum, parents.revenue),
+            'revenue': createNode(key, datum, parents.revenue),
             'gross_cost': createNode(key, datum, parents.gross_cost)
         };
     };
