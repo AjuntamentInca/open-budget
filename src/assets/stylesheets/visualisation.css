@@ -39,7 +39,7 @@ html {
   top:0;
   right:0;*/
   z-index: 2;
-  padding: 0 20px;
+  padding: 0 20px 40px 0;
   box-shadow: 0 10px 20px 1px #ddd;
   background-color: #fff;
   height: 100%;
@@ -85,7 +85,7 @@ html {
       color: #000; }
     #sidebar .breadcrumb li {
       display: inline-block;
-      color: #027ea4;
+      color: #00ccff;
       font-size: 90%; }
       #sidebar .breadcrumb li::after {
         color: #000;
@@ -143,7 +143,7 @@ svg#canvas {
     svg#canvas text.headline {
       opacity: 1;
       fill: #737373;
-      font-size: 30px;
+      font-size: 25px;
       text-transform: none; }
       @media only screen and (max-width: 40em) {
         svg#canvas text.headline {
