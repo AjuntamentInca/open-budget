@@ -1,6 +1,6 @@
-# Open Budget
+# Open Budget / Versió Ajuntament d'Inca
 
-This tool is an open source project built by the [City of Philadelphia’s Office of Innovation and Technology](http://www.phila.gov/data/), based on a project by [OpenData.ch](https://github.com/tpreusse/open-budget), the Swiss division of the [Open Knowledge Foundation](http://okfn.org/).
+Aquesta eina és una adaptació del projecte de codi lliure [Open Budget](https://github.com/CityOfPhiladelphia/open-budget) desenvolupat per [City of Philadelphia’s Office of Innovation and Technology](http://www.phila.gov/data/), que està basat en el projecte de [OpenData.ch](https://github.com/tpreusse/open-budget), la secíó suïssa de la [Open Knowledge Foundation](http://okfn.org/).
 
 ## Setup
 First, clone the repository and from within project directory install dependencies via:
