@@ -11317,6 +11317,106 @@
                   {
                     "capitol": "TRANSFER\u00c8NCIES CORRENTS.", 
                     "codi_capitol": "4", 
+                    "codi_partida": "48931", 
+                    "codi_pol_despesa": "92", 
+                    "codi_programa": "924", 
+                    "exercici": "2017", 
+                    "organisme": "AJUNTAMENT D'INCA", 
+                    "partida": "PREMI SOPAR A LA FRESCA", 
+                    "pol_despesa": "SERVEIS DE CAR\u00c0CTER GENERAL", 
+                    "programa": "PARTICIPACI\u00d3 CIUTADANA", 
+                    "total": "1300.00"
+                  }
+                ], 
+                "gross_cost": {
+                  "accounts": {
+                    "2016": 0.0, 
+                    "2017": 1300.0
+                  }
+                }, 
+                "id": "ajuntament-d-inca-924-4-48931", 
+                "name": "PREMI SOPAR A LA FRESCA"
+              }, 
+              {
+                "children": [
+                  {
+                    "capitol": "TRANSFER\u00c8NCIES CORRENTS.", 
+                    "codi_capitol": "4", 
+                    "codi_partida": "48930", 
+                    "codi_pol_despesa": "92", 
+                    "codi_programa": "924", 
+                    "exercici": "2017", 
+                    "organisme": "AJUNTAMENT D'INCA", 
+                    "partida": "PREMI ROMERIA SANTA MAGDALENA", 
+                    "pol_despesa": "SERVEIS DE CAR\u00c0CTER GENERAL", 
+                    "programa": "PARTICIPACI\u00d3 CIUTADANA", 
+                    "total": "500.00"
+                  }
+                ], 
+                "gross_cost": {
+                  "accounts": {
+                    "2016": 0.0, 
+                    "2017": 500.0
+                  }
+                }, 
+                "id": "ajuntament-d-inca-924-4-48930", 
+                "name": "PREMI ROMERIA SANTA MAGDALENA"
+              }, 
+              {
+                "children": [
+                  {
+                    "capitol": "TRANSFER\u00c8NCIES CORRENTS.", 
+                    "codi_capitol": "4", 
+                    "codi_partida": "48933", 
+                    "codi_pol_despesa": "92", 
+                    "codi_programa": "924", 
+                    "exercici": "2017", 
+                    "organisme": "AJUNTAMENT D'INCA", 
+                    "partida": "PREMI CARTELL CARNAVAL", 
+                    "pol_despesa": "SERVEIS DE CAR\u00c0CTER GENERAL", 
+                    "programa": "PARTICIPACI\u00d3 CIUTADANA", 
+                    "total": "200.00"
+                  }
+                ], 
+                "gross_cost": {
+                  "accounts": {
+                    "2016": 0.0, 
+                    "2017": 200.0
+                  }
+                }, 
+                "id": "ajuntament-d-inca-924-4-48933", 
+                "name": "PREMI CARTELL CARNAVAL"
+              }, 
+              {
+                "children": [
+                  {
+                    "capitol": "TRANSFER\u00c8NCIES CORRENTS.", 
+                    "codi_capitol": "4", 
+                    "codi_partida": "48927", 
+                    "codi_pol_despesa": "92", 
+                    "codi_programa": "924", 
+                    "exercici": "2017", 
+                    "organisme": "AJUNTAMENT D'INCA", 
+                    "partida": "PREMI RUETA", 
+                    "pol_despesa": "SERVEIS DE CAR\u00c0CTER GENERAL", 
+                    "programa": "PARTICIPACI\u00d3 CIUTADANA", 
+                    "total": "2000.00"
+                  }
+                ], 
+                "gross_cost": {
+                  "accounts": {
+                    "2016": 0.0, 
+                    "2017": 2000.0
+                  }
+                }, 
+                "id": "ajuntament-d-inca-924-4-48927", 
+                "name": "PREMI RUETA"
+              }, 
+              {
+                "children": [
+                  {
+                    "capitol": "TRANSFER\u00c8NCIES CORRENTS.", 
+                    "codi_capitol": "4", 
                     "codi_partida": "48917", 
                     "codi_pol_despesa": "92", 
                     "codi_programa": "924", 
@@ -11355,31 +11455,6 @@
                   {
                     "capitol": "TRANSFER\u00c8NCIES CORRENTS.", 
                     "codi_capitol": "4", 
-                    "codi_partida": "48930", 
-                    "codi_pol_despesa": "92", 
-                    "codi_programa": "924", 
-                    "exercici": "2017", 
-                    "organisme": "AJUNTAMENT D'INCA", 
-                    "partida": "PREMI ROMERIA SANTA MAGDALENA", 
-                    "pol_despesa": "SERVEIS DE CAR\u00c0CTER GENERAL", 
-                    "programa": "PARTICIPACI\u00d3 CIUTADANA", 
-                    "total": "500.00"
-                  }
-                ], 
-                "gross_cost": {
-                  "accounts": {
-                    "2016": 0.0, 
-                    "2017": 500.0
-                  }
-                }, 
-                "id": "ajuntament-d-inca-924-4-48930", 
-                "name": "PREMI ROMERIA SANTA MAGDALENA"
-              }, 
-              {
-                "children": [
-                  {
-                    "capitol": "TRANSFER\u00c8NCIES CORRENTS.", 
-                    "codi_capitol": "4", 
                     "codi_partida": "48928", 
                     "codi_pol_despesa": "92", 
                     "codi_programa": "924", 
@@ -11399,62 +11474,12 @@
                 }, 
                 "id": "ajuntament-d-inca-924-4-48928", 
                 "name": "PREMI RUA"
-              }, 
-              {
-                "children": [
-                  {
-                    "capitol": "TRANSFER\u00c8NCIES CORRENTS.", 
-                    "codi_capitol": "4", 
-                    "codi_partida": "48931", 
-                    "codi_pol_despesa": "92", 
-                    "codi_programa": "924", 
-                    "exercici": "2017", 
-                    "organisme": "AJUNTAMENT D'INCA", 
-                    "partida": "PREMI SOPAR A LA FRESACA", 
-                    "pol_despesa": "SERVEIS DE CAR\u00c0CTER GENERAL", 
-                    "programa": "PARTICIPACI\u00d3 CIUTADANA", 
-                    "total": "1300.00"
-                  }
-                ], 
-                "gross_cost": {
-                  "accounts": {
-                    "2016": 0.0, 
-                    "2017": 1300.0
-                  }
-                }, 
-                "id": "ajuntament-d-inca-924-4-48931", 
-                "name": "PREMI SOPAR A LA FRESACA"
-              }, 
-              {
-                "children": [
-                  {
-                    "capitol": "TRANSFER\u00c8NCIES CORRENTS.", 
-                    "codi_capitol": "4", 
-                    "codi_partida": "48927", 
-                    "codi_pol_despesa": "92", 
-                    "codi_programa": "924", 
-                    "exercici": "2017", 
-                    "organisme": "AJUNTAMENT D'INCA", 
-                    "partida": "PREMI RUETA", 
-                    "pol_despesa": "SERVEIS DE CAR\u00c0CTER GENERAL", 
-                    "programa": "PARTICIPACI\u00d3 CIUTADANA", 
-                    "total": "2000.00"
-                  }
-                ], 
-                "gross_cost": {
-                  "accounts": {
-                    "2016": 0.0, 
-                    "2017": 2000.0
-                  }
-                }, 
-                "id": "ajuntament-d-inca-924-4-48927", 
-                "name": "PREMI RUETA"
               }
             ], 
             "gross_cost": {
               "accounts": {
                 "2016": 10000.0, 
-                "2017": 19800.0
+                "2017": 20000.0
               }
             }, 
             "id": "ajuntament-d-inca-924-4", 
@@ -11514,7 +11539,7 @@
         "gross_cost": {
           "accounts": {
             "2016": 162000.0, 
-            "2017": 209000.0
+            "2017": 209200.0
           }
         }, 
         "id": "ajuntament-d-inca-924", 
@@ -15485,7 +15510,7 @@
     "gross_cost": {
       "accounts": {
         "2016": 20902548.58000001, 
-        "2017": 24128898.82
+        "2017": 24129098.82
       }
     }, 
     "id": "ajuntament-d-inca", 
